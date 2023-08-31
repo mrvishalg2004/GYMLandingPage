@@ -2,7 +2,7 @@
 
 Welcome to the GYM Landing Page project! This is a simple web page designed using HTML, CSS, and JavaScript to create an attractive landing page for a gym or fitness center.
 
-![Screenshot of GYM Landing Page]https://github.com/mrvishalg2004/GYMLandingPage/assets/135511723/1bc6d41e-6c63-44b2-b89b-4e405a0876c1
+![Screenshot of GYM Landing Page](https://github.com/mrvishalg2004/GYMLandingPage/assets/135511723/1bc6d41e-6c63-44b2-b89b-4e405a0876c1)
 
 ## Table of Contents
 
